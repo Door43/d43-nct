@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nct:home|Door43 (nct)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nct|d43-nct repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nct/archive/master.zip|d43-nct.zip]]
+
+**Recent Changes**
+{{changes>ns = nct}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nct|Ethnologue data]]
+
